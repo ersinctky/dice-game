@@ -1,4 +1,3 @@
-# dicee-game-js
-A simple dicee game using js
+# dice-game-js
+A simple dice game 
 
-GitHub Pages: https://aykutulis.github.io/dicee-game-js/
